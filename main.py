@@ -16,10 +16,10 @@ try:
     server = raw_input ('Did you subribed to Aynaet: ')
 
     if server == 'yes' or server == 'Yes' :
-       
-    print(" All links:")
+     
     
-        
+     
+    
     else:
 
         print(R + "Error - This script only works for subscribers." + W)
