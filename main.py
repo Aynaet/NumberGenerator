@@ -13,16 +13,10 @@ try:
     
     print("             WhatsappApks | Aynaet-Git              ")
 
-    server = raw_input ('Did you subribed to Aynaet: ')
-
-    if server == 'yes' or server == 'Yes' :
-     
+    sleep.10
     
-     
     
-    else:
-
-        print(R + "Error - This script only works for subscribers." + W)
-        sys.exit()
+    print("Your Links: bit.ly/3b5k0dQ")
+     
 
    
