@@ -1,4 +1,5 @@
- clear
+ os.system("clear")
+  
  
 
 print("               WhatsappApks | Aynaet:Git              ")
