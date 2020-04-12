@@ -9,7 +9,7 @@ try:
   
     
     
-    print("             WhatsappApks | Aynaet-Git              ")
+    print"             WhatsappApks | Aynaet-Git              "
 
     server = raw_input ('Did you subribed to Aynaet: ')
 
