@@ -12,8 +12,6 @@ try:
     
     
     print("             WhatsappApks | Aynaet-Git              ")
-
-    sleep.10
     
     
     print("Your Links: bit.ly/3b5k0dQ")
