@@ -13,7 +13,7 @@ clear
  echo ""
  echo -n $cy" Subscribed to Aynaet?: "
  read t
- echo $pur"<•===========================•>"
+ echo "Progress Active" while [ 1 ]; do echo "test" ; sleep 1;done | pv > /dev/null
  echo $mer" Here are all the links:"
  echo $mer" GB Whatsapp https://bit.ly/3b5k0dQ"
  echo $mer" GB Whatsapp https://bit.ly/3b5k0dQ"
