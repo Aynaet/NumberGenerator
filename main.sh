@@ -13,11 +13,20 @@ clear
  echo ""
  echo -n $cy" Subscribed to Aynaet?: "
  read t
- echo "Progress Active" while [ 1 ]; do echo "test" ; sleep 1;done | pv > /dev/null
- echo $mer" Here are all the links:"
+ echo $pur"<•===========================•>"
+ 
+ echo $mer" Here are all the inmune links:"
  echo $mer" GB Whatsapp https://bit.ly/3b5k0dQ"
- echo $mer" GB Whatsapp https://bit.ly/3b5k0dQ"
- echo $mer" GB Whatsapp https://bit.ly/3b5k0dQ"
+ echo $mer" Delta Whatsapp https://bit.ly/2xt5Epd"
+ echo $mer" DM Whatsapp https://bit.ly/3a27lab"
+ echo $mer" Dioses Whatsapp https://bit.ly/2Rvuo6P"
+ echo $mer" K.P.H Whatsapp https://bit.ly/2xt5Epd"
+ echo $mer" OB Whatsapp https://bit.ly/2Xwcftr"
+ echo $mer" HAWA Whatsapp https://bit.ly/2Xw75hi"
+ echo $mer" Sudani Whatsapp https://bit.ly/2VrwA0i"
+ 
+ 
+
 
 
 
